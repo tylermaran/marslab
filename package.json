@@ -1,0 +1,23 @@
+{
+	"name": "marslab",
+	"version": "1.0.0",
+	"description": "going to mars",
+	"main": "index.js",
+	"dependencies": {
+		"msgo": "0.0.3"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tylermaran/marslab.git"
+	},
+	"author": "themanmaran (tyler.maran@gmail.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/tylermaran/marslab/issues"
+	},
+	"homepage": "https://github.com/tylermaran/marslab#readme"
+}
