@@ -4,7 +4,7 @@
 	"description": "going to mars",
 	"main": "index.js",
 	"dependencies": {
-		"msgo": "0.0.3"
+		"msgo": "0.1.2"
 	},
 	"devDependencies": {},
 	"scripts": {
