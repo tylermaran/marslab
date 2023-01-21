@@ -7,6 +7,6 @@ publish=true
 
 ## Mars research settlements
 
-1. Mars Desert Research Station: http://mdrs.marssociety.org/
-2. FMARS: https://en.wikipedia.org/wiki/Flashline_Mars_Arctic_Research_Station
-3. Haughton Mars Project: https://www.nasa.gov/analogs/hmp
+1. Mars Desert Research Station: <a href='http://mdrs.marssociety.org/' target='_blank'>http://mdrs.marssociety.org/</a>
+2. FMARS: <a href='https://en.wikipedia.org/wiki/Flashline_Mars_Arctic_Research_Station' target='_blank'>https://en.wikipedia.org/wiki/Flashline_Mars_Arctic_Research_Station</a>
+3. Haughton Mars Project: <a href='https://www.nasa.gov/analogs/hmp' target='_blank'>https://www.nasa.gov/analogs/hmp</a>

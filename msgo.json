@@ -1,6 +1,6 @@
 {
-	"name": "mysite",
-	"baseUrl": "www.example.com",
+	"name": "Have we landed",
+	"baseUrl": "havewelanded.com/",
 	"compressImages": true,
 	"includeSocial": true
 }
