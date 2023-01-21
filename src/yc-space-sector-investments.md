@@ -1,4 +1,4 @@
-title=YC's 18 space industry investments
+title=Y-Combinator's top space industry investments
 description=A brief history of YCombinator's investments in the space industry. YC has made 18 investments into spacefaring startups since 2012. To date 12 of these startups received follow-on investments, 8 received additional...
 image=./fundraising_waterfall.png
 date=2023-01-20
