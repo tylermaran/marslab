@@ -7,6 +7,8 @@ publish=true
 
 ## Mars research settlements
 
+There's a lot of big talk about colonizing Mars. But not very many people researching what it would really take to make this dream come true.
+
 1. Mars Desert Research Station: <a href='http://mdrs.marssociety.org/' target='_blank'>http://mdrs.marssociety.org/</a>
 2. FMARS: <a href='https://en.wikipedia.org/wiki/Flashline_Mars_Arctic_Research_Station' target='_blank'>https://en.wikipedia.org/wiki/Flashline_Mars_Arctic_Research_Station</a>
 3. Haughton Mars Project: <a href='https://www.nasa.gov/analogs/hmp' target='_blank'>https://www.nasa.gov/analogs/hmp</a>
