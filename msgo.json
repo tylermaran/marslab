@@ -1,6 +1,6 @@
 {
 	"name": "Have we landed",
-	"baseUrl": "havewelanded.com/",
+	"baseUrl": "https://havewelanded.com",
 	"compressImages": true,
 	"includeSocial": true
 }
