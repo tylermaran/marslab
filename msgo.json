@@ -1,5 +1,7 @@
 {
 	"name": "Have we landed",
+	"description": "Taking a look at our local solar system",
+	"image": "have-we-landed.png",
 	"baseUrl": "https://havewelanded.com",
 	"compressImages": true,
 	"includeSocial": true
