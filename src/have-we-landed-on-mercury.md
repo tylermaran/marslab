@@ -41,8 +41,6 @@ It's worth noting that inferior conjunctions of Mercury happen about 13 or 14 ti
 
 NASA's MESSENGER spacecraft, which orbited Mercury between 2011 and 2015, was launched in 2004 and took about 7 years to travel to Mercury. The BepiColombo mission, which was launched in 2018, took approximately 7.3 years to reach Mercury.
 
-If a spacecraft is launched when Earth and Mercury are at their closest point in their respective orbits ("inferior conjunction"), the journey would take less time than if the launch occurred when the two planets were at their farthest point (superior conjunction).
-
 If we use conventional propulsion it would take around 4-5 years to reach Mercury, but with the use of advanced propulsion system, like solar electric propulsion, we could cut the journey time by half.
 
 It's also worth noting that most missions to Mercury are not direct flights, but instead use gravity assist maneuvers to increase the spacecraft's speed and change its trajectory. These maneuvers can add time to the overall journey, but they also allow the spacecraft to save fuel and complete its mission more efficiently.
