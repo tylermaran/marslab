@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 		<url>
 			<loc>https://havewelanded.com</loc>
-			<lastmod>2023-01-29</lastmod>
+			<lastmod>2023-02-11</lastmod>
 		</url>
 	
+			<url>
+				<loc>https://havewelanded.com/have-we-landed-on-europa.html</loc>
+				<lastmod>2023-02-10</lastmod>
+			</url>
+		
 			<url>
 				<loc>https://havewelanded.com/have-we-landed-on-mercury.html</loc>
 				<lastmod>2023-01-26</lastmod>
