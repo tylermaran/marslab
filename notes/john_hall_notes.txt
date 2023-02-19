@@ -1,0 +1,119 @@
+john hall
+
+
+take a look at individual case studies
+
+electron rocket labs 
+- 3d printing rocket parts
+
+big niche
+- reduce the cost of whatever the big guys are doing
+
+
+component providers
+satellite companies
+rocket companies
+
+
+Government funded stuff: 
+- UK space agency
+
+rutherford appleton laboratory?
+
+
+US
+- giant pile of VCs that will throw money at stuff
+- Space Angles VC (launch vehicles, firefly)
+
+
+Expecting a lot of investment to move into Ukraine once the war dies down
+
+
+Looking for money? 
+Find a space consulting firm and they'll marry you to an existing set of VSs
+
+Nasa Grants
+- problem specific, do this research, no equity taken
+
+
+Nasa / NSA / Darpa investments
+- new technology development 
+- less focused on sharing data (cause military)
+- Some deals happen where nasa funds, but the company is private. 
+- Nasa will get some sort of licsing deal for that technology.
+- SpaceAct Agreement (https://www.nasa.gov/partnerships/about.html)
+
+
+All nasa offices have "Technology Transfer" offices
+"Announcement of Opportunity" - if you're in touch with a tech transfer office they can tell you 
+what AO's are available at the time. Some are science based (leading to grants), some engineering based (leading to contracts)
+some are cooperative development. Pretty mature system.
+They also have RFPs (request for proposals) which tend to be more for hardware. 
+
+
+What if I want to launch a rocket
+- FAA approval
+- Best to use an established range (spacex decided to launch themselves)
+- If I wanted my own launchpad - FAA & DOD will have to approve it
+- Nasa co-owns launchpads with DOD (Mid atlantic range? is one.)
+- There is one in Kodiak alaska!?
+- Congress is trying to make this process less complex, but unlikely they will succeed. 
+- Work with state agencies to get approcal (New Mexico, Florida, Alaska)
+- Wollaps island (nasa launches space station missions). Works for non-people missions.
+
+Extra thoughts: 
+- If you had something different (i.e 3d printed rocket, special radiation shielding, green propellent)
+
+
+You would go to the Mid Atlantic Range S(something) and ask for approval for launch.
+You get in the queue, and it's often rather congested. 
+
+If you go to the 45th airforce website they probably have the range schedule. It's public info. 
+
+
+Who has to rubber stamp astroforge's launch
+- Crongress Space Act (not the NASA one) 
+- Jim Bridenstein
+- Led the charge for getting the FAA / Department of Commerce to take a light touch to 
+- applications like astroforge, or On Orbit Satellite Maintainance 
+- Right now you need
+  - FAA
+  - FCC
+  - Commerce Department
+- Commerce Dept is not actively involved yet, but gov wants them to be involved in the licsing process.
+
+Nasa has already put together some partnerships for moon-mining
+They run some challenges, prize money. Google X money as well
+
+Gateway Luner activity
+
+
+Projects 
+- Anything dealing with radiation / hardening / shielding. Still a huge challenge.
+- Anything that makes the space environment a little less hostile
+- Extending the life of any in orbit systems
+- Bringing down the cost and weight of propellent
+- Better thrusters
+- Waste recycling & removal
+
+
+Look into the NASA startup studio or NASA Technology Transfer offices. 
+That will tell you the problems they are trying to address. 
+
+And not just NASA. DARPA has the same sort of mechanisms. 
+
+
+Bring down the scope
+- I'd like to build a sensor for a satellite
+- A drill for space
+
+
+
+Space professional associations
+GISS in manhattan? 
+Goddard Institute for Space Studies - Colombia 
+Big NASA facility in Baltimore
+Best would be AIMS research center (sunnyvale california)
+
+
+
