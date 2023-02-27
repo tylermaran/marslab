@@ -1,5 +1,5 @@
 title=Martian colony projects
-description=Active martian research settlements.
+description=There's a lot of talk about going to Mars, but is anyone actually trying?
 image=https://compassionate-saha-53a9e6.netlify.app/assets/markdown-to-html.png
 date=2023-01-20
 publish=true
