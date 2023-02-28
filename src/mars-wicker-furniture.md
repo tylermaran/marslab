@@ -27,19 +27,22 @@ There's plenty of speculation on how we will end up building on Mars, but I feel
 -   **It comes in the right shape!**
     -   No 3D printing or injection molding required. Just cut and bend to desired shape.
 
-Turns out space will look a lot less like Startrek, and a lot more like your grandma's sitting room. It may not be the sexiest Martian engineering strategy, but it's the one that will work!
-
 ## Can't we build with Martian regolith?
 
 <img alt='martian simulant printing' src='./martian-regolith.jpg'>
 <small><i>Adam Jakus / Ramille Shah / Northwestern University</i></small>
 
-Sure! Martian regolith construction seems pretty promising. But two major shortfalls:
+Why not! After all experiments with regolith simulants have been used to build 3D printed tools, structures, solar panels, and even rocket fuel! [[1]](https://spectrum.ieee.org/how-nasa-will-use-robots-to-create-rocket-fuel-from-martian-soil)
 
-1. The massive amount of energy required to smelt down the ore
-2. Humans don't want to sit on radioactive concrete chairs all day
+Regolith manufacturing has become a sort of snake oil for Martian engineering. Every problem seems to have a cool regolith based solution. But in practice, most of these experiment are using 5-10% Martian simulant and leaving the remaining 90% to traditional binding agents.
 
-Manufacturing with Martian regolith involves using the raw materials found on the surface of Mars to produce useful goods and materials for human settlements. Regolith can be used to create 3D printed structures, solar panels, and even rocket fuel. The ability to manufacture on Mars reduces the need for costly and difficult transportation of materials from Earth and could make long-term human settlements on the Red Planet more feasible.
+While I'm certain we could build something chair shaped with Martian dust; it has a few major shortfalls:
+
+1. Massive amount of energy required to process
+2. Typically requires additional binding agents (from Earth)
+3. Humans don't want to sit on radioactive concrete chairs all day
+
+I believe there is potential for regolith manufacturing, but it's applications will be more cinder-block and less comfy-chair.
 
 ## What about bioplastics?
 
@@ -51,7 +54,7 @@ Bioplastics are another great option, but with a few limiting factors for chair 
 1. Bioplastics will be a precious commodity for replacing small parts throughout the station
 2. Large plastic extrusions require a lot of heat and heavy custom dies
 
-#### The basics of bioplastic engineering:
+### The basics of bioplastic engineering:
 
 1. Grow some corn (and eat the good part)
 2. Take the leftovers cobs, leaves, and stalks to grind down and make vegetable oil
@@ -62,15 +65,38 @@ Likely bioplastics will be integral to the continued survival of a Martian colon
 
 ## Bamboo to the rescue
 
+If our Martian colony needs a tried and true construction material, look no further than one of oldest and most popular
+
 <img alt='Hydroponic bamboo' src='./hydroponic-bamboo.png'>
 <small><i>Hydroponic bamboo sprouts</i></small>
 
 <img alt='Kiln drying bamboo' src='./bamboo-kiln.png'>
-<small><i>Kiln drying bamboo</i></small>
+<small><i>Kiln drying bamboo (225 stalks)</i></small>
 
-Looking for something that can be produced quickly (up to a foot a day) and largely resembles the final product anyway. Look no further!
+Reed (Phragmites) & Bamboo (Bambusoideae) do quite well hydroponically, it's roots are water resistant, and the same plant can be harvested multiple times. It does run into a bit of a height limitation. In order to harvest ~2 meters of usable stalk you'll probably need 3 meters of vertical growing space. Which might be limited in your Martian bunker.
 
-Reed (Phragmites) & Bamboo (Bambusoideae)
+But as long as you have high ceilings, a 3m x 3m room could easily house your entire furniture production studio.
+
+The process will look something like this:
+
+1. Grow bamboo in hydroponic garden (~6-8 months initially)
+2. Cut off useful portion of bamboo (leaving base & root structure for future growth)
+3. Bend to desired shape while green (or leave staight)
+4. Kiln dry and condense water back into system
+
+### Reclaiming water
+
+Maintaining a closed loop with water will be vital to survival on Mars. Sure we could theoretically go pick up some more from the North Pole. But our best bet will be maintaining whatever we brought with us.
+
+Which leads to a minor problem with our continued furniture problem: _bamboo absorbs moisture from the air_.
+
+In the average air conditioned home, bamboo will balance out at ~10% humidity. So imagine you had a 3kg bamboo chair, that chair would absorb 300 grams of water (0.30 liters).
+
+Your 6 piece Martian dining set would likely horde 3-4 liters of water. It's not lost from the system, as it could always be composted back into your grow medium. But it's worth understanding before you launch a full scale furniture business on Mars.
+
+## Relax and enjoy your new Martian chair
+
+Turns out space will look a lot less like Star Trek, and a lot more like your grandma's sitting room. It may not be the sexiest Martian engineering strategy, but it's the one that will work!
 
 <img alt='Wicker spaceship - DALL-E ' src='./wicker-spaceship.png'>
 <small><i>Wicker chairs on spaceship - DALL-E</i></small>
