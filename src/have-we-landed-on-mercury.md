@@ -44,3 +44,11 @@ NASA's MESSENGER spacecraft, which orbited Mercury between 2011 and 2015, was la
 If we use conventional propulsion it would take around 4-5 years to reach Mercury, but with the use of advanced propulsion system, like solar electric propulsion, we could cut the journey time by half.
 
 It's also worth noting that most missions to Mercury are not direct flights, but instead use gravity assist maneuvers to increase the spacecraft's speed and change its trajectory. These maneuvers can add time to the overall journey, but they also allow the spacecraft to save fuel and complete its mission more efficiently.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Tyler Maran - [@TylerMaran](https://twitter.com/TylerMaran) - [tylermaran.com](https://tylermaran.com)

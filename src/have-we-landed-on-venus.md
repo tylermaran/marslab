@@ -50,3 +50,11 @@ There are a few reasons why there haven't been many recent missions to Venus sin
 3. **We have a lot of data.** The Soviet Venera missions in the 1970s and 1980s provided an incredible amount of data on surface conditions. And later missions with the European Space Agency's Venus Express and Japanese space agency JAXA's Akatsuki mission have provided extensive surface mappings. This missions have provided a wealth of data about the planet's atmosphere and surface, and scientists have been analyzing this data for many years.
 
 However, there is a renewed interest in Venus, NASA has planned [a new Venus mission called VERITAS](https://solarsystem.nasa.gov/missions/veritas/overview/) (Venus Emissivity, Radio Science, InSAR, Topography, and Spectroscopy) that is scheduled to launch before 2030 and several other space agencies including JAXA, ISRO and Roscosmos are also planning Venus missions in the near future.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Tyler Maran - [@TylerMaran](https://twitter.com/TylerMaran) - [tylermaran.com](https://tylermaran.com)

@@ -1,6 +1,6 @@
 title=Have we landed on Europa
 description=Have humans ever landed on Europe?
-image=./europa-surface.jpg
+image=https://havewelanded.com/europa-surface.jpg
 date=2023-02-10
 publish=true
 @@@
@@ -28,3 +28,11 @@ The Galilean moons are a group of four large moons of Jupiter: Io, Europa, Ganym
 Io is the innermost of the Galilean moons and is the most volcanically active object in the solar system. Europa is a world of ice and ocean and is considered one of the best candidates for life in our solar system. Ganymede is the only moon in the solar system known to have a magnetic field, and Callisto may have a subsurface ocean.
 
 The Galilean moons have been the subject of much scientific study and are considered important objects for understanding the formation and evolution of the solar system.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Tyler Maran - [@TylerMaran](https://twitter.com/TylerMaran) - [tylermaran.com](https://tylermaran.com)

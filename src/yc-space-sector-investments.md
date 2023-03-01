@@ -231,3 +231,11 @@ The 18 companies (ordered by the YC investment date):
 -   Founded: 2021
 -   Funding: $13.1 Million
 -   https://www.astroforge.io/
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Tyler Maran - [@TylerMaran](https://twitter.com/TylerMaran) - [tylermaran.com](https://tylermaran.com)

@@ -1,7 +1,7 @@
 title=Mars will have a lot of wicker furniture
 description=So we've landed on Mars, now we need somewhere to sit. It's pretty expensive to ship furniture from earth, so time to start building some chairs.
 image=https://havewelanded.com/mars-wicker-chairs.png
-date=2023-02-26
+date=2023-02-28
 publish=true
 @@@
 
@@ -100,3 +100,11 @@ Turns out space will look a lot less like Star Trek, and a lot more like your gr
 
 <img alt='Wicker spaceship - DALL-E ' src='./wicker-spaceship.png'>
 <small><i>Wicker chairs on spaceship - DALL-E</i></small>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Tyler Maran - [@TylerMaran](https://twitter.com/TylerMaran) - [tylermaran.com](https://tylermaran.com)

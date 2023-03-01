@@ -12,3 +12,11 @@ There's a lot of big talk about colonizing Mars. But not very many people resear
 1. Mars Desert Research Station: <a href='http://mdrs.marssociety.org/' target='_blank'>http://mdrs.marssociety.org/</a>
 2. FMARS: <a href='https://en.wikipedia.org/wiki/Flashline_Mars_Arctic_Research_Station' target='_blank'>https://en.wikipedia.org/wiki/Flashline_Mars_Arctic_Research_Station</a>
 3. Haughton Mars Project: <a href='https://www.nasa.gov/analogs/hmp' target='_blank'>https://www.nasa.gov/analogs/hmp</a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Tyler Maran - [@TylerMaran](https://twitter.com/TylerMaran) - [tylermaran.com](https://tylermaran.com)
