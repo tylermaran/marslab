@@ -1,6 +1,6 @@
 title=Mars will have a lot of wicker furniture
 description=So we've landed on Mars, now we need somewhere to sit. It's pretty expensive to ship furniture from earth, so time to start building some chairs.
-image=./mars-wicker-chairs.png
+image=https://havewelanded.com/mars-wicker-chairs.png
 date=2023-02-26
 publish=true
 @@@

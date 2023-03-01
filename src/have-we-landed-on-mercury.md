@@ -1,6 +1,6 @@
 title=Have we landed on Mercury
 description=Have humans ever landed on Mercury?
-image=./mercury-surface.jpg
+image=https://havewelanded.com/mercury-surface.jpg
 date=2023-01-26
 publish=true
 @@@

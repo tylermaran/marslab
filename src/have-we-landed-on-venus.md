@@ -1,6 +1,6 @@
 title=Have we landed on Venus
 description=Have humans ever landed on Venus?
-image=./venus_surface.jpg
+image=https://havewelanded.com/venus_surface.jpg
 date=2023-01-25
 publish=true
 @@@
